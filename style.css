@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  margin-top: 13%;
+  background-size: cover;
+}
+
+#time {
+  font-size: 60px;
+}
+
+#welcome {
+  font-size: 52px;
+  padding: 15px;
+}
+
+#wish {
+  font-size: 42px;
+  padding: 10px;
+}
